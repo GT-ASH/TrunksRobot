@@ -81,7 +81,7 @@ PIGASUS_UPDATES = "https://t.me/PigasusUpdates"
 PIGASUS_SUPPORT = "https://t.me/PigasusSupport"
 
 PM_START_TEXT = """
-────「 [❰🅢🅒🅞🅡🅑🅤🅝🅝🅨❱](https://telegra.ph/file/acad2eed8212ceca3852b.jpg) 」────
+────「 [{}](https://telegra.ph/file/acad2eed8212ceca3852b.jpg) 」────
 *𝙰𝙻𝙾𝙻𝙰 ! {},*
 *𝙸 𝚊𝚖 𝚂𝙲𝙾𝚁𝙱𝚄𝙽𝚈 𝙰 𝚌𝚞𝚝𝚎 𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚖𝚎𝚎𝚝 𝚢𝚘𝚞*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -90,6 +90,12 @@ PM_START_TEXT = """
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Help Buttons Below To Know My Abilities ××
 """
+
+STICKERS = (
+      "CAACAgEAAxkBAAIFOWGA79DkVFu8K2SbxSMNVRCsMUyfAAIFAAMOrGET9JfgTJbXUDQhBA",
+      "CAACAgEAAxkBAAIFOmGA79f9jiUZO1F1CBhw2oqeQgPmAAIGAAMOrGETkcksRq2ex-chBA",
+      "CAACAgEAAxkBAAIFO2GA7-SCUsZaBpsYHLdWOwABxU1bmgACQQADDqxhE5WxnSt5bmQnIQQ",
+)
 
 buttons = [
     [
@@ -229,8 +235,18 @@ def start(update: Update, context: CallbackContext):
                 IMPORTED["rules"].send_rules(update, args[0], from_pm=True)
 
         else:
+            update.effective_message.reply_sticker(
+                random.choice(STICKERS),
+                timeout=60,
+            )
+            first_name = update.effective_user.first_name
             update.effective_message.reply_text(
-                PM_START_TEXT,
+                PM_START_TEXT.format(
+                    escape_markdown(context.bot.first_name),
+                    escape_markdown(first_name),
+                    escape_markdown(uptime),
+                    sql.num_users(),
+                    sql.num_chats()),                        
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
                 timeout=60,
