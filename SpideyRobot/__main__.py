@@ -1,9 +1,11 @@
 
 import importlib 
 import time
+import random
 import re
 from sys import argv
 from typing import Optional
+import SpideyRobot.modules.sql.users_sql as sql
 
 from SpideyRobot import (
     ALLOW_EXCL,
