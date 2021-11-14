@@ -1,6 +1,6 @@
 ![SCORBUNNY](https://telegra.ph/file/2acc5c393ab48d22f4425.jpg) 
 
-## Spidey Robot
+## Scorbunny Robot
 
 <p align='center'>
   <img src="https://img.shields.io/github/forks/dcownerno1/SpideyRobot?style=flat-square" alt="Forks">
@@ -29,15 +29,15 @@
 - Fully open-source
 - Frequently updated
 
-### You can easily find Spidey on Telegram .
+### You can easily find Scorbunny on Telegram .
 
 <p align='left'>
- <a href="https://telegram.dog/SpideyRobot"><img src="https://img.shields.io/badge/SpideyRobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Find on Telegram"></a></br></br>
+ <a href="https://telegram.dog/Scorbunnyrobot"><img src="https://img.shields.io/badge/SpideyRobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
 
 </p>
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dcownerno1/SpideyRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aryanjawale/scorbunny)
 
 If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 
@@ -47,10 +47,11 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 
 ### © Copyright 
 
-#### Copyright (C) 2021-2022 by DC Owner ❤️️
+#### Copyright (C) 2021-2022 by Aryanjawale ❤️️
 #### Licensed under the terms of the GPL-3.0 License .
 
 ## Developer 💻 
+[![Aryanjawale](https://img.shields.io/badge/Aryanjawale-red?style=for-the-badge&logo=appveyor)
 
 [![DCOWNER](https://img.shields.io/badge/DC-OWNER-red?style=for-the-badge&logo=appveyor)](https://t.me/DreamerNo1) 
 
