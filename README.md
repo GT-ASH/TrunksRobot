@@ -32,7 +32,7 @@
 ### You can easily find Scorbunny on Telegram .
 
 <p align='left'>
- <a href="https://telegram.dog/Scorbunnyrobot"><img src="https://img.shields.io/badge/SpideyRobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
+ <a href="https://telegram.dog/Scorbunnyrobot"><img src="https://img.shields.io/badge/Scorbunnyrobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
 
 </p>
 
@@ -51,7 +51,7 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 #### Licensed under the terms of the GPL-3.0 License .
 
 ## Developer 💻 
-[![Aryanjawale](https://img.shields.io/badge/Aryanjawale-red?style=for-the-badge&logo=appveyor)
+[![Aryanjawale](https://img.shields.io/badge/Aryanjawale-red?style=for-the-badge&logo=appveyor)](https://t.me/Aryanjawale)
 
 [![DCOWNER](https://img.shields.io/badge/DC-OWNER-red?style=for-the-badge&logo=appveyor)](https://t.me/DreamerNo1) 
 
