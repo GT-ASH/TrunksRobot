@@ -1,6 +1,6 @@
-![TRUNKS](https://telegra.ph/file/6322464568968a312b6b8.jpg) 
+![TRUNKS](https://telegra.ph/file/b2ab5c0322c056b603624.jpg) 
 
-## Trucks Robot
+##        A Dangerous Trunks Robot Group Managing Bot With Many Features
 
 <p align="center">
   <a href="https://www.python.org">
@@ -9,16 +9,7 @@
   </a>
 </p>
 
-**A Dangerous Group Manageming bot With Many Features Made By [python](https://python.org) with more functions and speciality.**
-
-## **Features :**
-- Modern
-- Fast
-- Fully asynchronous
-- Fully open-source
-- Frequently updated
-
-### You can easily find Trunks on Telegram .
+### You Can Easily To Find Trunks On Telegram .
 
 <p align='left'>
  <a href="https://telegram.dog/TrunksRobot"><img src="https://img.shields.io/badge/TrunksRobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
@@ -28,11 +19,9 @@
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GTASH/Trunks)
 
-If all works well, bot should send message to the **MESSAGE_DUMP** Group .
-
 # ❤️ Support
-<a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-PEGASUS%20UPDATES-red.svg?logo=Telegram"></a>
-<a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-PEGASUS%20SUPPORT-blue.svg?logo=telegram"></a>
+<a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-Pegasus%20Updates-red.svg?logo=Telegram"></a>
+<a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-Pegasus%20Support-blue.svg?logo=telegram"></a>
 
 ### © Copyright 
 
