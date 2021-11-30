@@ -51,8 +51,8 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 #### Licensed under the terms of the GPL-3.0 License .
 
 ## Developer 💻 
-[![GT_ASH](https://img.shields.io/badge/GT_SPIDER-red?style=for-the-badge&logo=appveyor)](https://t.me/GT_SPIDER)
+[![GT_ASH](https://img.shields.io/badge/GT ASH-red?style=for-the-badge&logo=appveyor)](https://t.me/GT_SPIDER)
 
-[![CTPRO](https://img.shields.io/badge/CTZFAMILY-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
+[![CTPRO](https://img.shields.io/badge/CT PRO-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
 
 ##### Powered by [PegasusNetwork](https://t.me/PegasusNetworkOfficial)
