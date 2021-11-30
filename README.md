@@ -2,23 +2,12 @@
 
 ## Trucks Robot
 
-<p align='center'>
-  <img src="https://img.shields.io/github/forks/dcownerno1/SpideyRobot?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/dcownerno1/SpideyRobot?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/dcownerno1/SpideyRobot?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/dcownerno1/SpideyRobot?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/dcownerno1/SpideyRobot?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/dcownerno1/SpideyRobot?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dcownerno1/SpideyRobot&amp;title=Profile%20Views" alt="Views">
-</p>
-
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
   </a>
 </p>
-
 
 **A Dangerous Group Manageming bot With Many Features Made By [python](https://python.org) with more functions and speciality.**
 
