@@ -1,4 +1,4 @@
-![TRUNKS](https://telegra.ph/file/b2ab5c0322c056b603624.jpg) 
+![TRUNKS](https://telegra.ph/file/5713b5e609cd586bd98f7.jpg) 
 
 ##        A Dangerous Trunks Robot Group Managing Bot With Many Features
 
