@@ -37,7 +37,7 @@
 </p>
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GTASH/Trucks)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GTASH/Trunks)
 
 If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 
@@ -51,8 +51,8 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 #### Licensed under the terms of the GPL-3.0 License .
 
 ## Developer 💻 
-[![Aryanjawale](https://img.shields.io/badge/Aryanjawale-red?style=for-the-badge&logo=appveyor)](https://t.me/Aryanjawale)
+[![GT_ASH](https://img.shields.io/badge/GT_SPIDER-red?style=for-the-badge&logo=appveyor)](https://t.me/GT_SPIDER)
 
-[![DCOWNER](https://img.shields.io/badge/DC-OWNER-red?style=for-the-badge&logo=appveyor)](https://t.me/DreamerNo1) 
+[![CTPRO](https://img.shields.io/badge/CTZFAMILY-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
 
 ##### Powered by [PegasusNetwork](https://t.me/PegasusNetworkOfficial)
