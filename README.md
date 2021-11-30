@@ -20,8 +20,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GtAsh/TrunksRobot)
 
 # ❤️ Support
-<a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-Pegasus%20Updates-red.svg?logo=Telegram"></a>
-<a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-Pegasus%20Support-blue.svg?logo=telegram"></a>
+<a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-Pegasus%20Updates-blue.svg?logo=Telegram"></a>
+<a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-Pegasus%20Support-yellow.svg?logo=telegram"></a>
 
 ### © Copyright 
 
@@ -29,7 +29,7 @@
 #### Licensed under the terms of the GPL-3.0 License .
 
 ## Developer 💻 
-[![GT_ASH](https://img.shields.io/badge/GT_ASH-red?style=for-the-badge&logo=appveyor)](https://t.me/GT_SPIDER)
+[![GT_ASH](https://img.shields.io/badge/GT_ASH-blue?style=for-the-badge&logo=appveyor)](https://t.me/GT_SPIDER)
 
 [![CTPRO](https://img.shields.io/badge/CT_PRO-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
 
