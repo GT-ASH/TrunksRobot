@@ -42,7 +42,7 @@
 If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 
 # ❤️ Support
-<a href="https://t.me/PigasusUpdates"><img src="https://img.shields.io/badge/Join-Telegam%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-Telegam%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### © Copyright 
