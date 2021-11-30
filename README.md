@@ -32,7 +32,7 @@
 ### You can easily find Trunks on Telegram .
 
 <p align='left'>
- <a href="https://telegram.dog/TrunksRobot"><img src="https://img.shields.io/badge/Scorbunnyrobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
+ <a href="https://telegram.dog/TrunksRobot"><img src="https://img.shields.io/badge/TrunksRobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
 
 </p>
 
@@ -43,7 +43,7 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 
 # ❤️ Support
 <a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-PEGASUS%20UPDATES-red.svg?logo=Telegram"></a>
-<a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-PEGASUS%20SUPPORT-blue.svg?logo=telegram"></a>
 
 ### © Copyright 
 
