@@ -42,7 +42,7 @@
 If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 
 # ❤️ Support
-<a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-Telegam%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-PEGASUS%20UPDATES-red.svg?logo=Telegram"></a>
 <a href="https://t.me/UNITEDSUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### © Copyright 
@@ -55,4 +55,4 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group .
 
 [![CTPRO](https://img.shields.io/badge/CT_PRO-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
 
-##### Powered by [PegasusNetwork](https://t.me/PegasusNetworkOfficial)
+##### Powered by [PegasusNetwork](https://t.me/pegasusXteam)
