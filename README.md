@@ -17,7 +17,7 @@
 </p>
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GTASH/Trunks)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GtAsh/TrunksRobot)
 
 # ❤️ Support
 <a href="https://t.me/PegasusUpdates"><img src="https://img.shields.io/badge/Join-Pegasus%20Updates-red.svg?logo=Telegram"></a>
